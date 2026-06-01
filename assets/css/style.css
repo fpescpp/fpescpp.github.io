@@ -172,6 +172,7 @@ img {
 .info-sidebar {
   position: sticky;
   top: 32px;
+  margin-top: 32px;
 }
 
 .info-panel {
